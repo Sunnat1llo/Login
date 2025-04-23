@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\qwerty\bin\Debug\net9.0\qwerty.exe
+C:\Users\user\Desktop\qwerty\bin\Debug\net9.0\qwerty.deps.json
+C:\Users\user\Desktop\qwerty\bin\Debug\net9.0\qwerty.runtimeconfig.json
+C:\Users\user\Desktop\qwerty\bin\Debug\net9.0\qwerty.dll
+C:\Users\user\Desktop\qwerty\bin\Debug\net9.0\qwerty.pdb
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.AssemblyInfo.cs
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.dll
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\refint\qwerty.dll
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.pdb
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\qwerty.genruntimeconfig.cache
+C:\Users\user\Desktop\qwerty\obj\Debug\net9.0\ref\qwerty.dll
